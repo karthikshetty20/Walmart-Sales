@@ -20,4 +20,5 @@ gross margin
 percentage
 gross income
 Rating
-![Uploading luke-chesser-IGtutkXikuc-unsplash.jpg…]()
+![luke-chesser-IGtutkXikuc-unsplash](https://github.com/karthikshetty20/Walmart-Sales/assets/104451770/27c53dfa-a17a-4a20-a07b-80b299cb4cbe)
+

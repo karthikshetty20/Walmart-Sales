@@ -20,3 +20,4 @@ gross margin
 percentage
 gross income
 Rating
+![Uploading luke-chesser-IGtutkXikuc-unsplash.jpg…]()

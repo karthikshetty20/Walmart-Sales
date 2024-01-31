@@ -23,3 +23,9 @@ The columns in the dataset are<br>
 `gross income` FLOAT <br>
 `Rating` FLOAT
 
+
+__"Sales"__ able is created based on the above columns.
+`NOT NULL` constraint is used in all columns to ensure there is no problem with data importing and EDA later on.
+
+- We can use date and time 
+

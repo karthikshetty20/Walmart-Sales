@@ -30,3 +30,5 @@ __"Sales"__ able is created based on the above columns.
 We can use the column __time__ to extract the time of day (Morning, Afternoon, Evening, Night) as `"time_of_day"`<br>
 Similarly we can use the column __date__ to find out day as `"day_name"`, month as `"month_name"`.<br>
 
+We move to questions after wtting up the tables for EDA purpose.
+

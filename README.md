@@ -2,7 +2,7 @@
 
 The dataset contains info about Walmart sales. The factors involved and affecting the sales are studied and queried as per.
 
-Invoice ID
+Invoice ID<br>
 Branch
 City
 Customer type
@@ -20,5 +20,4 @@ gross margin
 percentage
 gross income
 Rating
-![luke-chesser-IGtutkXikuc-unsplash](https://github.com/karthikshetty20/Walmart-Sales/assets/104451770/27c53dfa-a17a-4a20-a07b-80b299cb4cbe)
 

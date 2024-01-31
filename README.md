@@ -1,7 +1,8 @@
 # Walmart-Sales
 
-The dataset contains info about Walmart sales. The factors involved and affecting the sales are studied and queried as per.
-
+The dataset contains info about Walmart sales.<br>
+Columns x Rows = 1000 x 17<br>
+The factors involved and affecting the sales are studied and queried as per.<br>
 
 The columns in the dataset are<br>
 `Invoice ID` VARCHAR <br>

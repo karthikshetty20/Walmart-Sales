@@ -2,7 +2,7 @@
 
 The dataset contains info about Walmart sales. The factors involved and affecting the sales are studied and queried as per.
 
-Invoice ID<br>
+`Invoice ID `<br>
 Branch
 City
 Customer type

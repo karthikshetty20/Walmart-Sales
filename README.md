@@ -2,22 +2,23 @@
 
 The dataset contains info about Walmart sales. The factors involved and affecting the sales are studied and queried as per.
 
-`Invoice ID `<br>
-`Branch`<br>
-`City`<br>
-`Customer type`<br>
-`Gender`<br>
-`Product line`<br>
-`Unit price`<br>
-`Quantity`<br>
-`Tax 5%`<br>
-`Total`<br>
-`Date`<br>
-`Time`<br>
-`Payment`<br>
-`cogs`<br>
-`gross margin`<br>
-`percentage`<br>
-`gross income`<br>
-`Rating`
+
+The columns in the dataset are<br>
+`Invoice ID` VARCHAR <br>
+`Branch`VARCHAR <br>
+`City` VARCHAR <br>
+`Customer type` VARCHAR <br>
+`Gender` VARCHAR <br>
+`Product line` VARCHAR <br>
+`Unit price` FLOAT <br>
+`Quantity` INT <br>
+`Tax 5%` FLOAT <br>
+`Total`  FLOAT <br>
+`Date` DATE <br>
+`Time` TIME <br>
+`Payment` VARCHAR <br>
+`cogs`FLOAT <br>
+`gross margin percentage` DOUBLE <br>
+`gross income` FLOAT <br>
+`Rating` FLOAT
 

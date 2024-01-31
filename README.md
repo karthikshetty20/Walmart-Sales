@@ -27,5 +27,6 @@ The columns in the dataset are<br>
 __"Sales"__ able is created based on the above columns.
 `NOT NULL` constraint is used in all columns to ensure there is no problem with data importing and EDA later on.
 
-- We can use date and time 
+We can use time to extract the time of day (Morning, Afternoon, Evening, Night) as `"day_of_time"`<br>
+Similarly we can use date to find out day, month and year as well for convenience.<br>
 
